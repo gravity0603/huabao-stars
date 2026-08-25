@@ -1,0 +1,4 @@
+# Keep repository content focused on distributable skills.
+.DS_Store
+Thumbs.db
+*.tmp
