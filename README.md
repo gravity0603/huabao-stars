@@ -1,3 +1,10 @@
+> 本仓库已于2026-10-14迁移到 [gravity0603/huabao](https://github.com/gravity0603/huabao)。后续统一在那里维护；本仓库保留历史并归档。
+
+- [skills/huabao-star-topic-planner](https://github.com/gravity0603/huabao/tree/main/skills/huabao-star-topic-planner)
+- [skills/huabao-star-headline-refiner](https://github.com/gravity0603/huabao/tree/main/skills/huabao-star-headline-refiner)
+
+---
+
 # huabao-stars
 
 面向华为画报「明星」品类的两个内容 Skill。当前发布版本：**v1.1.0**（2026-09-03）。
